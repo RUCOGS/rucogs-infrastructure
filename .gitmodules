@@ -1,0 +1,6 @@
+[submodule "rucogs.github.io"]
+	path = rucogs.github.io
+	url = https://github.com/RUCOGS/rucogs.github.io
+[submodule "rucogs.github.io-backend"]
+	path = rucogs.github.io-backend
+	url = https://github.com/RUCOGS/rucogs.github.io-backend
