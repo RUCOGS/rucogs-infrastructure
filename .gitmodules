@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/RUCOGS/rucogs.github.io-backend
+[submodule "discord-bot"]
+	path = discord-bot
+	url = https://github.com/RUCOGS/rucogs-discord-bot
